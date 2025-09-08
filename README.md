@@ -62,13 +62,6 @@ I’m a 23-year-old undergraduate **Software Engineering student** at the **Open
 
 ---
 
-### 📈 GitHub Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MethminaYasas&theme=react-dark&hide_border=true" alt="GitHub contribution graph" />
-</p>
-
----
-
 ### 🎯 Goals for 2025
 - 🚀 Deepen expertise in **Python, Java, and Test Automation**  
 - 🌐 Build impactful **full-stack applications**  
