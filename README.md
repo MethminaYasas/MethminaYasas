@@ -66,8 +66,9 @@ I’m a 23-year-old undergraduate **Software Engineering student** at the **Open
 
 #### **Top Languages**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rensithudara&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MethminaYasas&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="Top Languages" />
 </p>
+
 
 ---
 
