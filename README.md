@@ -39,9 +39,9 @@
 
 ---
 
-## 📊 Top Languages
+## 📊 Languages I Use in My Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MethminaYasas&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MethminaYasas&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </p>
 
 ---
