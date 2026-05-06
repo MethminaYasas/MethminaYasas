@@ -13,7 +13,7 @@
 ---
 
 ## 🎓 Education & Certifications
-- 🎓 **BSc in Software Engineering (2023–Present)** – Open University of Sri Lanka  
+- 🎓 **BSE in Software Engineering (2023–Present)** – Open University of Sri Lanka  
 - 🎨 Diploma in Computing (Graphic Designing) – Oslo Computer College  
 - 💬 Diploma in English – American College of Higher Education  
 - 🍳 International Cookery – Negombo International Hotel School  
