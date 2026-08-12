@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-🎓 **23 y/o Software Engineering Undergraduate** at *Open University of Sri Lanka*  
+🎓 **24 y/o Software Engineering Undergraduate** at *Open University of Sri Lanka*  
 💡 Exploring **programming, design & international cookery** 🍳  
 🌍 Passionate about **tech, creativity & lifelong learning**  
 
